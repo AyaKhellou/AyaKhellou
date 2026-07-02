@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Aya 👋</h1>
 
 <p align="center">
-Front-End Developer • React Enthusiast • Lifelong Learner
+Front-End Developer building modern web applications.
 </p>
 
 ---
 
 ### 🌸 About Me
 
-I'm a front-end developer from Algeria with a background in medical imaging.
+Hi! I'm Aya, a front-end developer from Algeria with a background in medical imaging.
 
-I enjoy building clean, responsive, and user-friendly web applications while continuously improving my skills through real-world projects.
+I enjoy turning ideas into clean, responsive, and user-friendly web applications while continuously improving my skills through hands-on projects.
 
-Currently, I'm focused on modern web development with React, TypeScript, and Tailwind CSS.
+I'm currently learning React, TypeScript, and modern front-end development as I work toward my first developer role.
 
 ---
 
@@ -37,22 +37,10 @@ Currently, I'm focused on modern web development with React, TypeScript, and Tai
 
 ---
 
-### 🚀 Featured Projects
-
-🌸 Movie App  
-A responsive movie discovery application built with React and Firebase.
-
-📖 More projects coming soon...
-
----
-
 ### 🌱 Goals
 
-- Building projects
-- Learning React & TypeScript
+- Building portfolio projects
+- Improving my React and TypeScript skills
 - Improving my UI skills
 - Looking for my first front-end developer opportunity
 
----
-
-> "Small improvements every day lead to big results."
