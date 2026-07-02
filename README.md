@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aya 👋</h1>
 
-<!--
-**AyaKhellou/AyaKhellou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Front-End Developer • React Enthusiast • Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+
+I'm a front-end developer from Algeria with a background in medical imaging.
+
+I enjoy building clean, responsive, and user-friendly web applications while continuously improving my skills through real-world projects.
+
+Currently, I'm focused on modern web development with React, TypeScript, and Tailwind CSS.
+
+---
+
+### 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+- Firebase
+- Git & GitHub
+- Vite
+
+---
+
+### 📚 Currently Learning
+
+- Advanced React patterns
+- TypeScript
+- Writing cleaner and more maintainable code
+
+---
+
+### 🚀 Featured Projects
+
+🌸 Movie App  
+A responsive movie discovery application built with React and Firebase.
+
+📖 More projects coming soon...
+
+---
+
+### 🌱 Goals
+
+- Building projects
+- Learning React & TypeScript
+- Improving my UI skills
+- Looking for my first front-end developer opportunity
+
+---
+
+> "Small improvements every day lead to big results."
